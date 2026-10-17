@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/nltk/nltk/commit/05a0ea399697a3531bffc22a3d03edc3d3b6afec",
       "git:hexsha": "05a0ea399697a3531bffc22a3d03edc3d3b6afec",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T07:56:40.426656+00:00"
     },
     {
       "@id": "https://repolex.ai/r/nltk/nltk/commit/4b802fc7a1093aa6f412fa39525ac90acda127f0",
